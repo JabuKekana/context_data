@@ -1,0 +1,21 @@
+Interviewer: "What grade levels do you offer at Qurtuba Online Academy?"
+
+Interviewee: "We offer quality learning experiences for Grades RR to 12."
+
+Interviewer: "What are the curricula options for schooling at Qurtuba Online Academy?"
+
+Interviewee: "We provide two schooling curricula options. First, the South African National Curriculum aligned to CAPS, which is accredited by SACAI. Second, tuition for an International Curriculum aligned to the National British Curriculum."
+
+Interviewer: "What options are available for registration?"
+
+Interviewee: "We have three registration options: Schooling Only, Schooling and Madrasah/Islamic Studies, and Madrasah/Islamic Studies Only."
+
+Interviewer: "Can you tell me more about the different learning options?"
+
+Interviewee: "Certainly. We offer various learning options to cater to different needs. For Grades RR to 3 and SA CAPS Curriculum Grades 04 to 10, we provide Live, Online Time-Tabled Classes with Tutor Support and Assessments. For example, classes are typically held from Monday to Thursday from 08h00 to 12h30, and on Fridays from 08h00 to 11h00 with breaks in-between. As for Grades 11 and 12, you can inquire about their specific time-tables.
+
+For Grade 04 upwards, we offer Flipped Learning with Live, Online Tutor Support Sessions and Assessments. We also provide morning or afternoon live class options for the International Curriculum for Grades 04 to 09. Additionally, we have Self-Paced Learning with Tutor Support and Assessments, which is applicable to all Grades."
+
+Interviewer: "What resources and support do students have access to?"
+
+Interviewee: "All our options include access to our student portal, which features pre-recorded videos, downloadable notes, practice activities, quizzes, assessments, and access to academic support via the internal messaging tool, among other resources. Additionally, learners are supported by success champions who keep in touch with them and can be reached via multiple channels. Educators grade assessments, and reports are issued quarterly."
